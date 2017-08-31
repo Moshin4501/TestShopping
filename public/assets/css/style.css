@@ -1,0 +1,36 @@
+body {
+    height: auto;
+    width: auto;
+}
+
+navbar {
+    display: inline-block;
+}
+
+nav li {
+    display: inline-block;
+    padding: 10px 10px;
+}
+
+a {
+    color: #cccccc;
+}
+
+.carousel,
+.slide {
+    height: auto;
+    width: auto;
+    align-content: center;
+    margin: auto;
+}
+
+.carousel-inner {
+    height: 100%;
+    width: 100%;
+    align-content: center;
+}
+
+.d-block {
+    height: 100%;
+    width: 100%;
+}
